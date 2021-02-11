@@ -7,7 +7,7 @@
     <div id="card">
       <div id="card-content">
         <div id="card-title">
-          <img src="../images/logo.png" width="140px;" alt="">
+          <img src="../assets/images/logo.png" width="140px;" alt="">
         </div>
         <form method="post" class="form">
             <label for="fullname" style="padding-top:13px" class="form-group form-group-default" >
@@ -42,7 +42,7 @@
 
           <input id="submit-btn" type="submit" name="submit" value="Register"/>
 
-          <a href="login.html" id="signin">Already have an account ?</a>
+          <a href="login.php" id="signin">Already have an account ?</a>
 
           <a href="#" id="homepage">Back to homepage</a>
 
