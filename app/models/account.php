@@ -6,4 +6,3 @@ interface Account {
     public function logout ($pdo);
 }
 
-?>

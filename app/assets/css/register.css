@@ -5,7 +5,7 @@ a {
     /* background: -webkit-linear-gradient(bottom, #2dbd6e, #a6f77b); */
     background-repeat: no-repeat;
     /* margin-top: 80px; */
-    background: url('../images/login-register-bg2.png') center center/cover no-repeat;
+    background: url('../images/login-register-bg2.jpg') center center/cover no-repeat;
 
   }
   label {
@@ -16,8 +16,8 @@ a {
     background: #fbfbfb;
     border-radius: 8px;
     box-shadow: 1px 2px 8px rgba(0, 0, 0, 0.65);
-    height: 650px;
-    margin: 6rem auto 8.1rem auto;
+    height: 730px;
+    margin: 2rem auto 8.1rem auto;
     width: 400px;
   }
   #card-content {
